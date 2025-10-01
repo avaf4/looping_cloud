@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Recticle2 : MonoBehaviour
 {
-    public float speed = 0.01f;
+    public float speed = 0.05f;
     public float MaxX = 7.7f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

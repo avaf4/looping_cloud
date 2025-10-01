@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Recticle1 : MonoBehaviour
 {
-    public float speed = 0.01f;
+    public float speed = 0.05f;
     public float MaxY = 4.5f;
 
     public GameObject Explosion;
